@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflection-annotation/reflection-annotation.iml" filepath="$PROJECT_DIR$/reflection-annotation/reflection-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit-test/unit-test.iml" filepath="$PROJECT_DIR$/unit-test/unit-test.iml" />
+    </modules>
+  </component>
+</project>
