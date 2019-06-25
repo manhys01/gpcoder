@@ -2,48 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7e7d2a8-05df-4c67-93ab-6ad049f3cf9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aop/aop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/AbstractHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/AfterHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/AfterHandlerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/AspectOrientedProgrammingInJdkExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/BeforeHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/BeforeHandlerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/com/gpcoder/aop/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/AbstractHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/AfterHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/AfterHandlerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/BeforeHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/BeforeHandlerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/decorator/EmployeeComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/decorator/EmployeeConcreteComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/decorator/EmployeeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/decorator/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/decorator/TeamLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/decorator/TeamMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-test/src/main/java/com/gpcoder/junit/util/TaskUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/AssertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/ExceptionTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/ExceptionTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/ExceptionTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/FixMethodOrderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/JUnitLifeCycleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/TimeoutTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/TimeoutTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/ObjectToXmlHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlElementWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlRootElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/design-patterns/META-INF/design-patterns.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/MathUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/MathUtilTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-test/target/test-classes/com/gpcoder/junit/util/MathUtilTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/unit-test/target/test-classes/com/gpcoder/junit/util/MathUtilTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/unit-test/target/" />
@@ -62,10 +32,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/Client.java">
+        <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="476">
+              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,19 +44,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/AfterHandler.java">
+        <entry file="file://$PROJECT_DIR$/result.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="-4">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+              <folding>
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#1000#1001#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/BeforeHandler.java">
+        <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/ObjectToXmlHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="169">
+              <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Store.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="4" column="57" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Image.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+              <folding>
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,15 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/reflection-annotation/src/com/gpcoder/combine/Book.java" />
-        <option value="$PROJECT_DIR$/reflection-annotation/src/com/gpcoder/combine/ObjectToXmlExample.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/bridge/Account.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/bridge/CheckingAccount.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/bridge/SavingAccount.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/bridge/Bank.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/bridge/VietcomBank.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/bridge/MBBank.java" />
-        <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/bridge/Client.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/composite/FileComponent.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/composite/Fileleaf.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/structural/composite/FileLeaf.java" />
@@ -161,6 +164,15 @@
         <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/AfterHandlerImpl.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/AfterHandler.java" />
         <option value="$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/BeforeHandler.java" />
+        <option value="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlElementWrapper.java" />
+        <option value="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlElement.java" />
+        <option value="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlRootElement.java" />
+        <option value="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlAttribute.java" />
+        <option value="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Store.java" />
+        <option value="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Product.java" />
+        <option value="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Image.java" />
+        <option value="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Client.java" />
+        <option value="$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/ObjectToXmlHelper.java" />
       </list>
     </option>
   </component>
@@ -187,40 +199,18 @@
           <expand>
             <path>
               <item name="gpcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gpcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gpcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gpcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gpcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gpcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gpcoder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration name="AspectOrientedProgrammingInJdkExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gpcoder.aop.AspectOrientedProgrammingInJdkExample" />
       <module name="aop" />
@@ -290,6 +280,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.gpcoder.patterns.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gpcoder.annotation.Client" />
+      <module name="annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gpcoder.annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,29 +328,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssertTest.testAssertSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gpcoder.junit.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.gpcoder.junit.util" />
-      <option name="MAIN_CLASS_NAME" value="com.gpcoder.junit.util.AssertTest" />
-      <option name="METHOD_NAME" value="testAssertSame" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.AspectOrientedProgrammingInJdkExample" />
         <item itemvalue="JUnit.AssertTest" />
-        <item itemvalue="JUnit.AssertTest.testAssertSame" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +365,7 @@
       <workItem from="1560993247979" duration="2334000" />
       <workItem from="1561365259949" duration="1078000" />
       <workItem from="1561425168876" duration="2191000" />
-      <workItem from="1561444682658" duration="2730000" />
+      <workItem from="1561444682658" duration="11985000" />
     </task>
     <servers />
   </component>
@@ -415,13 +402,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42977000" />
+    <option name="totallyTimeSpent" value="52232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -430,7 +417,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4599018" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47790506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,6 +439,38 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47790506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3290469" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -468,147 +487,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aop/aop.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aop/src/com/gpcoder/aop/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aop/src/com/gpcoder/aop/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aop/src/com/gpcoder/aop/AfterHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aop/src/com/gpcoder/aop/AccountServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="109" column="29" lean-forward="true" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit-test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/reflect/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="405" column="13" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/MethodSorters.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/FixMethodOrder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/JUnitLifeCycleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit-test/src/main/java/com/gpcoder/junit/util/TaskUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/TimeoutTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/MathUtilTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit-test/src/test/java/com/gpcoder/junit/util/TimeoutTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/TimeUnit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1462">
@@ -935,8 +813,149 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/design-patterns/src/com/gpcoder/patterns/aop/BeforeHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="153">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection-annotation/src/com/gpcoder/combine/ObjectToXmlExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection-annotation/src/com/gpcoder/combine/XmlRootElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reflection-annotation/src/com/gpcoder/combine/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlRootElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlElementWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/annotation/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/XmlAttribute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="538" selection-start-line="538" selection-end-line="538" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+          <folding>
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/com/gpcoder/annotation/ObjectToXmlHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

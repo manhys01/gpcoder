@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store xmlns="com.gpcoder.annotation.reflection">
+	<name>Home Store</name>
+	<location>123 street</location>
+	<products>
+		<product id="1">
+			<name>iPhone X</name>
+			<description>Designed by Apple</description>
+			<price>500.0</price>
+			<images>
+				<image id="1">
+					<name>iPhoneX.png</name>
+					<location>/images/iPhoneX.png</location>
+				</image>
+				<image id="2">
+					<name>iPhoneX.jpg</name>
+					<location>/images/iPhoneX.jpg</location>
+				</image>
+				<image id="3">
+					<name>iPhoneX.gif</name>
+					<location>null</location>
+				</image>
+			</images>
+		</product>
+		<product id="2">
+			<name>MacBookPro 2019</name>
+			<description>Designed by Apple</description>
+			<price>1000.0</price>
+		</product>
+	</products>
+</store>
