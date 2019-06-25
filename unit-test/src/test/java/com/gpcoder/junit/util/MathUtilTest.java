@@ -3,7 +3,18 @@ package com.gpcoder.junit.util;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationTargetException;
+
 public class MathUtilTest {
+
+    @Test(expected = UnsupportedOperationException.class)
+    public void test_MathUtilConstructor_throwException() throws NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
+        Class<MathUtil> mathUtilClass = MathUtil.class;
+        Constructor<MathUtil> constructor = mathUtilClass.getDeclaredConstructor();
+        constructor.setAccessible(true);
+        constructor.newInstance();
+    }
 
     @Test
     public void divide_SixDividedByThree_ReturnTwo(){
